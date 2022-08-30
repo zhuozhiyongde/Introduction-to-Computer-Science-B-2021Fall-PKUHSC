@@ -1,8 +1,9 @@
 # ItC-2021B-fall-PKUHSC
 
-2021 年秋北京大学计算概论 B（医学部 C++ lyb 班）课程作业
+2021 年秋北京大学计算概论 B（医学部 C++ lyb 班）课程作业、笔记
 
 说明：
+
 C++文件夹下形如 PxQy 的文件为作业（Program x Question y），形如 SxQy 的为模拟测试（Simulation x Question y）。
 由于编程网格现在已经上不去了，所以我无从对应每个文件是那道题，需要你自己去比较。
 
