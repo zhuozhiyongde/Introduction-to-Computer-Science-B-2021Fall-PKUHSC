@@ -1,4 +1,4 @@
-# Introduction-To-Conputer-Science-B-2021Fall-PKUHSC
+# Introduction-To-Computer-Science-B-2021Fall-PKUHSC
 
 
 2021 年秋北京大学计算概论 B（医学部 C++ lyb 班）课程作业、笔记
